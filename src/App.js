@@ -120,7 +120,7 @@ function App() {
   };
 
   useEffect(() => {
-    document.title = "Jaya Janyani Resume";
+    document.title = "Thakur Janyani Portfolio";
   }, []);
 
   useEffect(() => {
@@ -343,7 +343,7 @@ function App() {
               paddingTop: 60,
             }}
           >
-            Jaya Janyani
+            Thakur Janyani
           </Typography>
           <Typography
             variant="h6"
